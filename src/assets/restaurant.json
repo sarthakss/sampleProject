@@ -1,0 +1,18 @@
+[
+  {
+    "id" : "1",
+    "name": "Chick-fil-A"
+  },
+  {
+    "id" : "2",
+    "name": "Arbys"
+  },
+  {
+    "id" : "3",
+    "name": "Wendys"
+  },
+  {
+    "id" : "4",
+    "name": "Taco Bell"
+  }
+]
